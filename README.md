@@ -1,2 +1,2 @@
-# App-Nutri-o
+# App-Nutri
 App IA Nutrição
