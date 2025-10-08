@@ -1,2 +1,2 @@
-# App-Nutri
-App IA Nutrição
+# App-StudyAI
+App para estudos com inteligência artificial
